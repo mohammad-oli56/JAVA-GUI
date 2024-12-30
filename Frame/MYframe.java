@@ -1,4 +1,4 @@
-package GUI;
+package Frame;
 
 import java.awt.Color;
 
